@@ -1,0 +1,12 @@
+name: bu-cs-graphics
+channels:
+  - conda-forge
+
+dependencies:
+  - python>=3.10
+  - pip
+  - numpy
+  - wxpython>=4.1
+  - pillow
+  - pycollada
+  - pyopengl
